@@ -1,0 +1,26 @@
+html,body{height:100%;
+    width:100%;
+    margin:0}
+.a{background-color:hsl(91, 48%, 52%)!important;
+    height:1000px;
+    width:1000px;
+    margin-block:3rem;
+    padding:1rem;
+    border:10px groove black;
+    box-sizing:border-box;
+    font-size:20px;
+    font-family:'Times New Roman';
+    font-weight:bold;
+    color: #a53131;
+    text-align: right;
+    position:relative;
+}
+.b{background-color:hsl(288, 100%, 66%);
+    height:100px;
+    width:100px;
+    border:10px groove black;
+    position:absolute;
+    transform: skew(10deg,10deg);
+    transition: 7s;
+
+}

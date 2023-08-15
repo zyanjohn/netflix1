@@ -1,0 +1,33 @@
+html,body{height:100%;
+    width:100%;
+    margin:0;
+    background-color: beige;}
+    .nav-bar {
+      position: absolute;
+      height: 3rem;
+      width: 100%;
+      padding: 1rem;
+      background-color: #133603;
+      text-align: left;
+  }
+        t
+      }
+    .b{
+        height:100%;
+        width:50%;
+        padding: top;
+        margin: block 10rem;
+        
+      }
+    .c{
+      margin-left: 70%;
+      font-size: 20px;
+      font-family: 'Times New Roman', Times, serif;
+      font-weight:bold;
+      text-align:left;
+      position:absolute;
+      top: 7%;
+      
+
+
+      }
